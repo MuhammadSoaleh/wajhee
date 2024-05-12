@@ -1,0 +1,113 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 11 May 2024 23:10:14 at https://themetechmount.com/wordpress/fablio/elementor/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://themetechmount.com/wordpress/fablio/elementor/ -O1 "C:\xampp\htdocs\wajhee" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:10:43	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/fablio-last-checkpoint.min.css?ver=6.4.3
+23:12:17	Warning: 	Retry after error -4 (Connect Error) at link localhost/textile_new/wp-content/themes/vemlo/images/floatingbar-bg.jpg (from https://themetechmount.com/wordpress/fablio/elementor/)
+23:12:26	Error: 	"Bad Request" (400) at link https://themetechmount.com/wordpress/fablio/elementor/wp-admin/admin-ajax.php (from https://themetechmount.com/wordpress/fablio/elementor/)
+23:15:49	Warning: 	Retry after error 500 (Internal Server Error) at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.eot (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:15:49	Warning: 	Retry after error 500 (Internal Server Error) at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.eot? (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:15:49	Warning: 	Retry after error 500 (Internal Server Error) at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.woff2 (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:15:49	Warning: 	Retry after error 500 (Internal Server Error) at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.woff (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:15:49	Warning: 	Retry after error 500 (Internal Server Error) at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.ttf (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:15:49	Warning: 	Retry after error 500 (Internal Server Error) at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.svg (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:15:50	Error: 	"Not Found" (404) at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/images/menu-sprite.svg (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/main.css?ver=6.4.3)
+23:15:50	Warning: 	Retry after error -4 (Connect Error) at link localhost/textile_new/wp-content/themes/vemlo/images/floatingbar-bg.jpg (from https://themetechmount.com/wordpress/fablio/elementor/)
+23:15:56	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=314
+23:15:56	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=314 to https://themetechmount.com/wordpress/fablio/elementor/home2/
+23:16:35	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=467
+23:16:35	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=467 to https://themetechmount.com/wordpress/fablio/elementor/home3/
+23:16:36	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=720
+23:16:36	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=720 to https://themetechmount.com/wordpress/fablio/elementor/about1/
+23:16:53	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=731
+23:16:53	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=731 to https://themetechmount.com/wordpress/fablio/elementor/about2/
+23:16:53	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=740
+23:16:53	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=740 to https://themetechmount.com/wordpress/fablio/elementor/services-1/
+23:16:53	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=737
+23:16:53	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=737 to https://themetechmount.com/wordpress/fablio/elementor/services-2/
+23:16:53	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=897
+23:16:53	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=897 to https://themetechmount.com/wordpress/fablio/elementor/our-team/
+23:17:00	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=748
+23:17:00	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=748 to https://themetechmount.com/wordpress/fablio/elementor/team-member/elina-shaikh/
+23:17:00	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=753
+23:17:00	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=753 to https://themetechmount.com/wordpress/fablio/elementor/service/fabric-printing/
+23:17:00	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=754
+23:17:00	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=754 to https://themetechmount.com/wordpress/fablio/elementor/service/fabric-dyeing/
+23:17:00	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=103
+23:17:00	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=103 to https://themetechmount.com/wordpress/fablio/elementor/service/engineering/
+23:17:00	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=102
+23:17:00	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=102 to https://themetechmount.com/wordpress/fablio/elementor/service/manufacture/
+23:17:00	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=101
+23:17:00	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=101 to https://themetechmount.com/wordpress/fablio/elementor/service/we-design-fabric-2/
+23:17:01	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=96
+23:17:01	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=96 to https://themetechmount.com/wordpress/fablio/elementor/service/we-design-fabric/
+23:17:01	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=884
+23:17:01	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=884 to https://themetechmount.com/wordpress/fablio/elementor/project-one/
+23:17:01	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=889
+23:17:01	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=889 to https://themetechmount.com/wordpress/fablio/elementor/project-two/
+23:17:01	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=387
+23:17:01	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=387 to https://themetechmount.com/wordpress/fablio/elementor/portfolio/linen-fabric/
+23:17:17	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=1113
+23:17:17	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=1113 to https://themetechmount.com/wordpress/fablio/elementor/blog-grid/
+23:17:17	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=140
+23:17:17	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=140 to https://themetechmount.com/wordpress/fablio/elementor/2021/03/18/nonwovens-industry-magazine/
+23:17:17	Error: 	"Method Not Allowed" (405) at link https://themetechmount.com/wordpress/fablio/elementor/xmlrpc.php (from https://themetechmount.com/wordpress/fablio/elementor/2021/03/18/nonwovens-industry-magazine/)
+23:17:18	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=870
+23:17:18	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=870 to https://themetechmount.com/wordpress/fablio/elementor/contactus/
+23:17:18	Error: 	"Not Found" (404) at link https://themetechmount.com/wordpress/fablio/elementor/wp-json/wp/v2/users/1 (from https://themetechmount.com/wordpress/fablio/elementor/author/admin/)
+23:17:19	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=135
+23:17:19	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=135 to https://themetechmount.com/wordpress/fablio/elementor/2021/02/28/one-stop-solution-for-textiles/
+23:17:19	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=134
+23:17:19	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=134 to https://themetechmount.com/wordpress/fablio/elementor/2021/02/15/textilegence-magazine-digital-platform/
+23:17:19	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=133
+23:17:19	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=133 to https://themetechmount.com/wordpress/fablio/elementor/2021/02/11/contactless-payments-time-has-come/
+23:17:19	Warning: 	File not parsed, looks like binary: https://themetechmount.com/wordpress/fablio/elementor/wp-content/plugins/revslider/public/assets/css/openhand.cur
+23:17:19	Warning: 	File not parsed, looks like binary: https://themetechmount.com/wordpress/fablio/elementor/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+23:17:19	Warning: 	Retry after error 500 (Internal Server Error) at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.eot (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:17:19	Warning: 	Retry after error 500 (Internal Server Error) at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.eot? (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:17:20	Warning: 	Retry after error 500 () at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.woff2 (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:17:20	Warning: 	Retry after error 500 (Internal Server Error) at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.woff (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:17:20	Warning: 	Retry after error 500 (Internal Server Error) at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.ttf (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:17:20	Warning: 	Retry after error 500 () at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.svg (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:17:20	Error: 	"Connect Error" (-4) after 2 retries at link localhost/textile_new/wp-content/themes/vemlo/images/floatingbar-bg.jpg (from https://themetechmount.com/wordpress/fablio/elementor/)
+23:17:20	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=758
+23:17:20	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=758 to https://themetechmount.com/wordpress/fablio/elementor/portfolio/silk-fabric/
+23:17:20	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=386
+23:17:20	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=386 to https://themetechmount.com/wordpress/fablio/elementor/portfolio/wool-fabric/
+23:17:20	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=383
+23:17:20	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=383 to https://themetechmount.com/wordpress/fablio/elementor/portfolio/georgette-fabric/
+23:17:20	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=385
+23:17:20	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=385 to https://themetechmount.com/wordpress/fablio/elementor/portfolio/leather-material/
+23:17:20	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=757
+23:17:20	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=757 to https://themetechmount.com/wordpress/fablio/elementor/portfolio/cotton-fabric/
+23:17:20	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=1022
+23:17:20	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=1022 to https://themetechmount.com/wordpress/fablio/elementor/2021/03/09/the-story-of-a-silk-lends-cotton-like-comfort/
+23:17:20	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=1020
+23:17:20	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=1020 to https://themetechmount.com/wordpress/fablio/elementor/2021/03/07/the-curse-of-synthetic-fabrics/
+23:17:20	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=903
+23:17:20	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=903 to https://themetechmount.com/wordpress/fablio/elementor/team-member/michal-wincent/
+23:17:20	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=902
+23:17:20	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=902 to https://themetechmount.com/wordpress/fablio/elementor/team-member/andrew-jackson/
+23:17:20	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=901
+23:17:20	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=901 to https://themetechmount.com/wordpress/fablio/elementor/team-member/john-tyler/
+23:17:20	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=746
+23:17:20	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=746 to https://themetechmount.com/wordpress/fablio/elementor/team-member/james-pamment/
+23:17:20	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/?p=747
+23:17:20	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/?p=747 to https://themetechmount.com/wordpress/fablio/elementor/team-member/james-logan/
+23:17:20	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/blog/page/1/
+23:17:20	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/blog/page/1/ to https://themetechmount.com/wordpress/fablio/elementor/blog/
+23:17:22	Warning: 	Moved Permanently for https://themetechmount.com/wordpress/fablio/elementor/author/admin/page/1/
+23:17:22	Warning: 	File has moved from https://themetechmount.com/wordpress/fablio/elementor/author/admin/page/1/ to https://themetechmount.com/wordpress/fablio/elementor/author/admin/
+23:17:22	Error: 	"Internal Server Error" (500) after 2 retries at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.eot (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:17:22	Error: 	"Internal Server Error" (500) after 2 retries at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.eot? (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:17:22	Error: 	"" (500) after 2 retries at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.woff2 (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:17:22	Error: 	"Internal Server Error" (500) after 2 retries at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.woff (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:17:22	Error: 	"Internal Server Error" (500) after 2 retries at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.ttf (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+23:17:22	Error: 	"" (500) after 2 retries at link https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/fonts/glyphicons-halflings-regular.svg (from https://themetechmount.com/wordpress/fablio/elementor/wp-content/themes/fablio/css/bootstrap.min.css?ver=6.4.3)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 8 seconds : 550 links scanned, 487 files written (37807408 bytes overall) [20813945 bytes received at 48630 bytes/sec], 20499836 bytes transferred using HTTP compression in 200 files, ratio 16%, 5.9 requests per connection
+(11 errors, 91 warnings, 0 messages)

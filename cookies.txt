@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+themetechmount.com	TRUE	/	FALSE	1999999999	PHPSESSID	05qo3r4j8mc4cf60p3ptq5rkcd
+
